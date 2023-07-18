@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
 /* ELEMENT SECTORS */
 body {
     background-image: url('https://github.com/LemuelVelez/LEM-TEASHOP/blob/main/images/pexels-i%C5%9F%C4%B1l-8109358.jpg?raw=true');
@@ -19,18 +21,19 @@ div {
     background-color: rgb(228, 202, 168);
 }
 
-.teaItem p{
-    background-color: greenyellow;
+.teaItem p {
+    /* background-color: greenyellow; */
     display: inline-block;
 }
 
 .teaFlavor {
+    background-color: lightgreen;
     text-align: left;
-    width: 50%;
+    width: 75%;
 }
 
 .teaPrice {
+    background-color: lightcoral;
     text-align: right;
-    width: 49%;
+    width: 25%;
 }
-

@@ -3,6 +3,7 @@ body {
     background-image: url('https://github.com/LemuelVelez/LEM-TEASHOP/blob/main/images/pexels-i%C5%9F%C4%B1l-8109358.jpg?raw=true');
     background-size: cover;
     background-repeat: no-repeat;
+    text-align: center;
 }
 
 div {
@@ -16,4 +17,8 @@ div {
 
 .teaMenu {
     background-color: rgb(228, 202, 168);
+}
+
+.teaFlavor {
+    text-align: left;
 }

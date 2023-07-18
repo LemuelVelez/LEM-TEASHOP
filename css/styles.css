@@ -1,11 +1,12 @@
-
 /* ELEMENT SECTORS */
-/* body{
-    background-color: rgb(228,202, 168);
-} */
+body {
+    background-image: url('https://github.com/LemuelVelez/LEM-TEASHOP/blob/main/images/pexels-i%C5%9F%C4%B1l-8109358.jpg?raw=true');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
-div{
-    background-color: rgb(228,202, 168);
+div {
+    background-color: rgb(228, 202, 168);
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -13,6 +14,6 @@ div{
 
 /* CLASSNAME SELECTORS */
 
-.teaMenu{
-    background-color: rgb(228,202, 168);
+.teaMenu {
+    background-color: rgb(228, 202, 168);
 }
